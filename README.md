@@ -10,7 +10,7 @@ Assets analysed: AstraZeneca (AZN.L), GSK (GSK.L), Shell (SHEL.L) Benchmark: FTS
 
 What’s in this repo
 
-|| File | Description |
+| File | Description |
 |---|---|
 | [`Project1_Technical_Analysis_Report.pdf`](Project1_Technical_Analysis_Report.pdf) | Full report — opens directly in-browser |
 | [`Project1_Technical_Analysis_Report.docx`](Project1_Technical_Analysis_Report.docx) | Full report (download to view — GitHub does not preview .docx files in-browser) |
