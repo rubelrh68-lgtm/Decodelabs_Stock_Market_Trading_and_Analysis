@@ -10,11 +10,12 @@ Assets analysed: AstraZeneca (AZN.L), GSK (GSK.L), Shell (SHEL.L) Benchmark: FTS
 
 What’s in this repo
 
-File	Description
-Decode_Stock_Analysis_Project_1.ipynb	Full analysis notebook — all 7 steps, end to end
-Project1_Technical_Analysis_Report.docx	Formatted write-up with embedded charts, tables, and verdicts
-data/	Cached OHLCV CSVs per ticker (generated on first run)
-charts/	Exported chart PNGs referenced in the report
+| File | Description |
+|---|---|
+| [`Decode_Stock_Analysis_Project_1.ipynb`](Decode_Stock_Analysis_Project_1.ipynb) | Full analysis notebook — all 7 steps, end to end |
+| [`Project1_Technical_Analysis_Report.docx`](Project1_Technical_Analysis_Report.docx) | Formatted write-up with embedded charts, tables, and verdicts |
+| `data/` | Cached OHLCV CSVs per ticker (generated on first run) |
+| `charts/` | Exported chart PNGs referenced in the report |
 Methodology — The IPO Decision Engine
 
 The core framework is a three-gate Input → Process → Output filter. A trade signal is only valid when all three gates agree:
