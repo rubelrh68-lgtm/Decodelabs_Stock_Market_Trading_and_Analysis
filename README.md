@@ -12,7 +12,8 @@ What’s in this repo
 
 | File | Description |
 |---|---|
-| [| [`Project_1_Report in pdf`](Project1_Technical_Analysis_Report.pdf) | Full report — opens directly in-browser |
+| [`Project1_Technical_Analysis_Report.pdf`]
+(Project1_Technical_Analysis_Report.pdf) | Full report — opens directly in-browser |
 | [`Project1_Technical_Analysis_Report.docx`](Project1_Technical_Analysis_Report.docx) | Full report (download to view — GitHub does not preview .docx files in-browser) |
 | [`Decode_Stock_Analysis_Project_1.ipynb`](Decode_Stock_Analysis_Project_1.ipynb) | Full analysis notebook — all 7 steps, end to end |
 | `data/` | Cached OHLCV CSVs per ticker (generated on first run) |
