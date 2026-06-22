@@ -13,12 +13,12 @@ Data source: Yahoo Finance (yfinance) for ~6 years of daily OHLCV data (2020–2
 What's in this folder
 
 File | Description
-
+------ | --------
 <<<<<<< Updated upstream
 [`Project_3_Algorithmic_Trading_Report.pdf`](Project_3_Algorithmic_Trading_Report.pdf) | Full report — opens directly in-browser
 [`Project_3_Algorithmic_Trading_Report.docx`](Project_3_Algorithmic_Trading_Report.docx) | Full report (download to view — GitHub does not preview .docx files in-browser)
 [`Stock_Market_Analysis_Project_3.ipynb`](Stock_Market_Analysis_Project_3.ipynb) | Full algorithmic trading notebook, end to end
-
+-------- | ----------
 Project_3_Algorithmic_Trading_Report.pdf | Full report — opens directly in-browser
 Project_3_Algorithmic_Trading_Report.docx | Full report (download to view — GitHub does not preview .docx files in-browser)
 Stock_Market_Analysis_Project_3.ipynb | Full algorithmic trading notebook, end to end
