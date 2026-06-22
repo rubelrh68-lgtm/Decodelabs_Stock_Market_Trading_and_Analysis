@@ -58,11 +58,11 @@ Project 3's Gate A inherits its threshold directly from Project 2's margin-of-sa
 
 ```
 Decodelabs_Stock_Market_Trading_and_Analysis/
-├── README.md                              (this file)
-├── Project1_Technical_Analysis/
+├── Project1_Technical_Analysis/ 
 ├── Project2_Fundamental_Valuation/
 ├── Project3_Algorithmic_Trading/
-└── Project4_Portfolio_Optimization/
+├── Project4_Portfolio_Optimization/
+└── README.md/
 ```
 
 Each project folder contains its own report (PDF and/or DOCX), Jupyter notebook(s), and a project-specific README with full methodology, headline results, and limitations.
